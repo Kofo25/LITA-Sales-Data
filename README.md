@@ -95,3 +95,17 @@ From the various Queries shown we have been able to gain various insights as to 
 
 ### Data Validation
 Through the use of Pivot Tables and Power BI we have been able to make data validations and create dashboards which makes the Analysis done to be much more presentable and understandable by telling a story.
+
+![LITA Capstone Project Mm - Excel 09_11_2024 01_39_52~3](https://github.com/user-attachments/assets/c91983e1-42d1-403e-9663-67acce4b232b)
+
+![LITA Capstone Project Mm - Excel 09_11_2024 01_39_52~4](https://github.com/user-attachments/assets/86217d1f-2912-4931-a809-321b6051fe28)
+![LITA Capstone Project Mm - Excel 09_11_2024 01_40_04~3](https://github.com/user-attachments/assets/d0ba19b2-0815-4595-9a26-d0511a0c80cc)
+![LITA Capstone Project Mm - Excel 09_11_2024 01_40_04~4](https://github.com/user-attachments/assets/d50e72e2-bac1-4819-a353-86db890b4f9c)
+![LITA Capstone Project Mm - Excel 09_11_2024 01_40_04~5](https://github.com/user-attachments/assets/cd741fd3-d4ff-4ac8-a29d-022170797fee)
+![LITA Capstone Project Mm - Excel 09_11_2024 01_40_04~6](https://github.com/user-attachments/assets/260fde7f-c753-4d7b-9c3a-4d030abc9887)
+![LITA Capstone Project Mm - Excel 09_11_2024 01_40_13~3](https://github.com/user-attachments/assets/14e37c22-8add-4f49-81c7-ecf480834b4a)
+![LITA Capstone Project Mm - Excel 09_11_2024 01_40_13~4](https://github.com/user-attachments/assets/4fcb7f04-e5ce-41de-91af-7c80365587f6)
+![LITA Capstone Project Mm - Excel 09_11_2024 01_40_29~3](https://github.com/user-attachments/assets/ac0fb2a3-95b6-43c0-a017-77fe4ff783f1)
+![LITA Capstone Project Mm - Excel 09_11_2024 01_40_29~4](https://github.com/user-attachments/assets/2f7b1414-86bc-497a-b682-d0f228bc61d9)
+![LITA Capstone Project Mm - Excel 09_11_2024 01_40_38~3](https://github.com/user-attachments/assets/fd99bdcb-1269-4e00-ba57-36a9c5a4d70a)
+![LITA Capstone Project Mm - Excel 09_11_2024 01_40_38~4](https://github.com/user-attachments/assets/3e274b98-d07e-43ee-8018-d5cb082f322d)
