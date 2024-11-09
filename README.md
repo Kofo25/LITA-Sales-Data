@@ -3,21 +3,21 @@ My First Project with the Ladies in Tech Africa and the Incubator Hub.
 
 ### Project Title : Sales Data Analysis
 ---
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
-[Data Source](data-source)
+[Data Source](#data-source)
 
-[Tools Used](tools-used)
+[Tools Used](#tools-used)
 
-[Data Cleaning and Preparations](data-cleanind-and-preparation)
+[Data Cleaning and Preparations](#data-cleanind-and-preparation)
 
-[Exploratory Data Analysis](explanatory-data-analysis)
+[Exploratory Data Analysis](#explanatory-data-analysis)
 
-[Data Analysis](data-analysis)
+[Data Analysis](#data-analysis)
 
-[SQL Query Codes](sql-query-codes)
+[SQL Query Codes](#sql-query-codes)
 
-[Data Validation](data-validation)
+[Data Validation](#data-validation)
 
 
 ### Project Overview
