@@ -42,3 +42,4 @@ This is where we include some basic lines of code or queries or even some Excel 
 =SUM(F4*G4)
 ```
 The above Excel Function was used to calculate the Sales of Each product sold.
+![LITA Capstone Project Mm - Excel 09_11_2024 01_38_29](https://github.com/user-attachments/assets/65bb0268-3042-43c7-a21a-09f9daf11dd7)
