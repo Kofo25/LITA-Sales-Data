@@ -70,24 +70,28 @@ SUM(Revenue)as TotalSales from [dbo].[SalesData]
 group by FORMAT(OrderDate, 'yyyy-MM')
 order by Month
 ```
+This Query gave us insights as to what the Total monthly sales are.
 ```
 select top 5 Customer_Id,
 SUM(Quantity)as TotalPurchase from SalesData
 group by Customer_Id
 order by TotalPurchase desc
 ```
-```
-select COUNT(OrderId)as Total_Sales, Product from SalesData
-group by Product
-```
-In finding the total sales for each product we made use of this Query Code.
+The top 5 Customers by their total pusrchase amount was known through this SQL Query
 ```
 select Region, SUM (Revenue)as TotalSales,
 SUM(Revenue) * 100.0 / (select sum(Revenue) from SalesData)as PercentageOf_Sales from SalesData
 group by Region
 ```
+What the Percentage of the total sales that was contributed by each region was made known through the use of the Query above.
 ```
 select * from SalesData
 where OrderDate >= dateadd(qq, datediff(qq,0,GETDATE())-1,0)
 and OrderDate < DATEADD(qq, datediff(qq,0,getdate()),0)
 ```
+This Query help us to gain insights has to the sales made in the Last Quarter.
+From the various Queries shown we have been able to gain various insights as to the performance of the sales Data and it aids our analysation better as we have been able to get key analysis from the Sales Data.
+
+
+### Data Validation
+Through the use of Pivot Tables and Power BI we have been able to make data validations and create dashboards which makes the Analysis done to be much more presentable and understandable by telling a story.
