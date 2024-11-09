@@ -65,9 +65,29 @@ order by HighestSellingP DESC
 ```
 The above Query is for determining the highest selling product.
 ```
+select FORMAT(OrderDate, 'yyyy-MM')as Month,
+SUM(Revenue)as TotalSales from [dbo].[SalesData]
+group by FORMAT(OrderDate, 'yyyy-MM')
+order by Month
+```
+```
+select top 5 Customer_Id,
+SUM(Quantity)as TotalPurchase from SalesData
+group by Customer_Id
+order by TotalPurchase desc
+```
+```
 select COUNT(OrderId)as Total_Sales, Product from SalesData
 group by Product
 ```
 In finding the total sales for each product we made use of this Query Code.
 ```
-q
+select Region, SUM (Revenue)as TotalSales,
+SUM(Revenue) * 100.0 / (select sum(Revenue) from SalesData)as PercentageOf_Sales from SalesData
+group by Region
+```
+```
+select * from SalesData
+where OrderDate >= dateadd(qq, datediff(qq,0,GETDATE())-1,0)
+and OrderDate < DATEADD(qq, datediff(qq,0,getdate()),0)
+```
