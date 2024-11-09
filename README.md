@@ -135,4 +135,7 @@ Below are the various Pivot Tables created drom the Sales Data;
     FORMAT(SalesData[OrderDate], "YYYY-MM")
 ```
 this particular function was used to draw out the month and year from the order date to allows us interpret the data and also give us insight on the sales made in each month of the year.
+Below is an image of how our dahboard loks like with the application of the DAX function to create measure
+
+Also we make use of slicers to give our 
 
