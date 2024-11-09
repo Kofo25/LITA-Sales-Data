@@ -128,3 +128,11 @@ Below are the various Pivot Tables created drom the Sales Data;
 ![LITA Capstone Project Mm - Excel 09_11_2024 01_40_38~3](https://github.com/user-attachments/assets/fd99bdcb-1269-4e00-ba57-36a9c5a4d70a)
 ![LITA Capstone Project Mm - Excel 09_11_2024 01_40_38~4](https://github.com/user-attachments/assets/3e274b98-d07e-43ee-8018-d5cb082f322d)
 
+2. Power BI
+   Power BI is a Data Visualization Tool which allows us to visualize and share insights from data which in turn helps us to make data-driven decisions by providinhg interactive reports and dashboards which can be easily understood.
+   With the use of DAX Functions to create measures we have been to draw out various insighhts from the Data and create charts to enable you understand the intrincasies of Sale Data without having any professional knowledge about iit. Some of the DAX functions used are;
+```
+    FORMAT(SalesData[OrderDate], "YYYY-MM")
+```
+this particular function was used to draw out the month and year from the order date to allows us interpret the data and also give us insight on the sales made in each month of the year.
+
