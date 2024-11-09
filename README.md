@@ -3,6 +3,22 @@ My First Project with the Ladies in Tech Africa and the Incubator Hub.
 
 ### Project Title : Sales Data Analysis
 ---
+[Project Overview](project-overview)
+
+[Data Source](data-source)
+
+[Tools Used](tools-used)
+
+[Data Cleaning and Preparations](data-cleanind-and-preparation)
+
+[Exploratory Data Analysis](explanatory-data-analysis)
+
+[Data Analysis](data-analysis)
+
+[SQL Query Codes](sql-query-codes)
+
+[Data Validation](data-validation)
+
 
 ### Project Overview
 This Data Analysis project aims to analyze the Sales performance of some given products over the past 2 years. By analyzing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which will enable us to tell compelling stories around the data and to provide us with the insights of the best performance of our data.
@@ -94,7 +110,9 @@ From the various Queries shown we have been able to gain various insights as to 
 
 
 ### Data Validation
+1. Ms Excel
 Through the use of Pivot Tables and Power BI we have been able to make data validations and create dashboards which makes the Analysis done to be much more presentable and understandable by telling a story.
+Below are the various Pivot Tables created drom the Sales Data;
 
 ![LITA Capstone Project Mm - Excel 09_11_2024 01_39_52~3](https://github.com/user-attachments/assets/c91983e1-42d1-403e-9663-67acce4b232b)
 
@@ -109,3 +127,4 @@ Through the use of Pivot Tables and Power BI we have been able to make data vali
 ![LITA Capstone Project Mm - Excel 09_11_2024 01_40_29~4](https://github.com/user-attachments/assets/2f7b1414-86bc-497a-b682-d0f228bc61d9)
 ![LITA Capstone Project Mm - Excel 09_11_2024 01_40_38~3](https://github.com/user-attachments/assets/fd99bdcb-1269-4e00-ba57-36a9c5a4d70a)
 ![LITA Capstone Project Mm - Excel 09_11_2024 01_40_38~4](https://github.com/user-attachments/assets/3e274b98-d07e-43ee-8018-d5cb082f322d)
+
