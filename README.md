@@ -137,5 +137,6 @@ Below are the various Pivot Tables created drom the Sales Data;
 this particular function was used to draw out the month and year from the order date to allows us interpret the data and also give us insight on the sales made in each month of the year.
 Below is an image of how our dahboard loks like with the application of the DAX function to create measure
 
-Also we make use of slicers to give our 
+Also we make use of slicers to give our daahboard detailed results in a way that it eill give us the results based on a specific item.
+We created slicers on Region and Products 
 
